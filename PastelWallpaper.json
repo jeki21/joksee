@@ -1,0 +1,36 @@
+{
+  "username": "bngjeck992",
+  "album": [
+    "PastelWallpaper"
+  ],
+  "init_jumlah_photo": 100,
+  "pub_id": "pub-9601865255535750",
+  "app_id": "ca-app-pub-9601865255535750~2307037908",
+  "admob_banner_id": "ca-app-pub-9601865255535750/5180651249",
+  "admob_interstitial_id": "ca-app-pub-9601865255535750/2554487907",
+  "admob_native_id": "ca-app-pub-9601865255535750/9869833156",
+
+  "admob_hpk_1": "Insurance",
+  "admob_hpk_2": "Gas/Electricity",
+  "admob_hpk_3": "Loans",
+  "admob_hpk_4": "Mortgage",
+  "admob_hpk_5": "Degree",
+
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "startapp_app_id": "21077",
+
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
+
+  "interstitial_inverval": 10,
+
+  "list_ads": [
+    "ADMOB",
+    "UNITY",
+    "STARTAPP",
+    "FAN"
+  ]
